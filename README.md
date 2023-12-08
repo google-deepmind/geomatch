@@ -35,12 +35,15 @@ To generate grasps for all objects of the eval set and all end-effectors, run:
 
 If you liked and used our repository, please cite us:
 
+```
 @inproceedings{attarian2023geometry,
   title={Geometry Matching for Multi-Embodiment Grasping},
   author={Attarian, Maria and Asif, Muhammad Adil and Liu, Jingzhou and Hari, Ruthrash and Garg, Animesh and Gilitschenski, Igor and Tompson, Jonathan},
   booktitle={7th Annual Conference on Robot Learning},
   year={2023}
 }
+```
+
 ## License and disclaimer
 
 Copyright 2023 DeepMind Technologies Limited
