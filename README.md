@@ -2,7 +2,7 @@
 
 While significant progress has been made on the problem of generating grasps, many existing learning-based approaches still concentrate on a single embodiment, provide limited generalization to higher DoF end-effectors and cannot capture a diverse set of grasp modes. In this paper, we tackle the problem of grasping multi-embodiments through the viewpoint of learning rich geometric representations for both objects and end-effectors using Graph Neural Networks (GNN). Our novel method - GeoMatch - applies supervised learning on grasping data from multiple embodiments, learning end-to-end contact point likelihood maps as well as conditional autoregressive prediction of grasps keypoint-by-keypoint. We compare our method against 3 baselines that provide multi-embodiment support. Our approach performs better across 3 end-effectors, while also providing competitive diversity of grasps. Examples can be found at geomatch.github.io.
 
-This is source code for the paper: GeoMatch: [Geometry Matching for Multi-Embodiment Grasping](https://arxiv.org/abs/2312.03864).
+This is source code for the paper: [Geometry Matching for Multi-Embodiment Grasping](https://arxiv.org/abs/2312.03864).
 
 ## Installation
 
