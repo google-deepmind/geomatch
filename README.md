@@ -39,7 +39,7 @@ If you liked and used our repository, please cite us:
 @inproceedings{attarian2023geometry,
   title={Geometry Matching for Multi-Embodiment Grasping},
   author={Attarian, Maria and Asif, Muhammad Adil and Liu, Jingzhou and Hari, Ruthrash and Garg, Animesh and Gilitschenski, Igor and Tompson, Jonathan},
-  booktitle={7th Annual Conference on Robot Learning},
+  booktitle={Proceedings of the 7th Conference on Robot Learning (CoRL)},
   year={2023}
 }
 ```
